@@ -1,11 +1,9 @@
-Railstar
-========
+= Railstar
 
 Introduction goes here.
 
 
-Example
-=======
+== Example
 
 Example goes here.
 
